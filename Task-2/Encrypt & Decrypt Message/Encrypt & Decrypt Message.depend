@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701554772 source:e:\asmaa\c++ study\ieee\task-2\encrypt & decrypt message\main.cpp
+	<iostream>
+	<string>
+
