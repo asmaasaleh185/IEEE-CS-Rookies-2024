@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701952515 source:e:\asmaa\c++ study\ieee\task-3\equation\main.cpp
+	<iostream>
+	<cmath>
+
