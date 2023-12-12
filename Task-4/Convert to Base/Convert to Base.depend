@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702363960 source:e:\asmaa\c++ study\ieee\task-4\convert to base\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
